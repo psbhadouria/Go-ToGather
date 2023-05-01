@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="opendrawer">Open Navigation Drawer</string>
+    <string name="closedrawer">Close Navigation Drawer</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
